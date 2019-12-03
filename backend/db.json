@@ -1,0 +1,11 @@
+{
+        "users": [{
+            "id": 1,
+            "name": "João",
+            "email": "joao.victor@locaweb.com.br"
+        }, {
+            "id": 1,
+            "name": "Daniel",
+            "email": "daniel@nsei.com"
+            }]
+}
